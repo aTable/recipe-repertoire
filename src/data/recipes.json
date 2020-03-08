@@ -1,0 +1,123 @@
+[
+  {
+    "type": "Mains",
+    "recipes": [
+      {
+        "name": "Mexican Burrito",
+        "link": "https://www.recipetineats.com/beef-burritos/",
+        "images": [
+          "https://www.recipetineats.com/wp-content/uploads/2017/06/Burritos-4-650x464.jpg"
+        ]
+      },
+      {
+        "name": "Boiled Chicken",
+        "link": "https://www.allrecipes.com/recipe/20455/boiled-chicken/",
+        "images": [
+          "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1046916.jpg&w=582&h=774.0600000000001&c=sc&poi=face&q=85"
+        ]
+      },
+      {
+        "name": "Tomato Basil soup",
+        "link": "https://www.allrecipes.com/recipe/13113/rich-and-creamy-tomato-basil-soup/",
+        "images": [
+          "https://images.media-allrecipes.com/userphotos/720x405/7200641.jpg"
+        ]
+      },
+      {
+        "name": "Chilli Con Carne",
+        "link": "https://www.bbcgoodfood.com/recipes/chilli-con-carne-recipe",
+        "images": [
+          "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1001451_6.jpg?itok=UV2FygMI"
+        ]
+      },
+      {
+        "name": "Bulgogi",
+        "link": "https://www.allrecipes.com/recipe/100606/beef-bulgogi/",
+        "images": [
+          "https://images.media-allrecipes.com/userphotos/720x405/1254483.jpg"
+        ]
+      },
+      {
+        "name": "Babimbap",
+        "link": "https://mykoreankitchen.com/bibimbap-korean-mixed-rice-with-meat-and-assorted-vegetables/",
+        "images": [
+          "https://mykoreankitchen.com/wp-content/uploads/2013/07/2-Korean-mixed-riceBibimbap.jpg"
+        ]
+      },
+      {
+        "name": "Japchae",
+        "link": "https://www.koreanbapsang.com/japchae-korean-stir-fried-starch/",
+        "images": [
+          "https://www.koreanbapsang.com/wp-content/uploads/2010/01/DSC_1060-e1444017700174.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Sides",
+    "recipes": [
+      {
+        "name": "Couscous",
+        "link": "https://www.thespruceeats.com/simple-couscous-recipe-2355404",
+        "images": [
+          "https://www.thespruceeats.com/thmb/gTPCBUGwkW5LB5DULa1j7YaSEEI=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/simple-couscous-recipe-2355404-8-5b0da7ffba6177003622498c.jpg"
+        ]
+      },
+      {
+        "name": "Gyoza",
+        "link": "https://www.justonecookbook.com/gyoza/",
+        "images": [
+          "https://d3eh3svpl1busq.cloudfront.net/KQYMGOLIdXGmoAcyJsPOrQDKktgCbwtG/assets/static/optimized/rev-88b71de/wp-content/uploads/2020/01/Gyoza-3107-III.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Drinks",
+    "recipes": [
+      {
+        "name": "Vietnamese Iced Coffee",
+        "link": "https://whiteonricecouple.com/recipes/vietnamese-iced-coffee-recipe/",
+        "images": [
+          "https://cookedtoorder.files.wordpress.com/2011/08/vietnamese-coffee.jpeg?w=193&h=300"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Desserts",
+    "recipes": [
+      {
+        "name": "Buttermilk Panna Cotta",
+        "link": "https://www.allrecipes.com/recipe/254451/chef-johns-buttermilk-panna-cotta/",
+        "images": [
+          "https://images.media-allrecipes.com/userphotos/720x405/3773396.jpg",
+          "https://www.taste.com.au/images/recipes/agt/2005/11/whitechocolate-panna-cotta-with-coffee-syrup-2272_l.jpeg",
+          "https://pull-revisfoodography.netdna-ssl.com/wp-content/uploads/2017/01/panna-cotta-vert2.jpg"
+        ]
+      },
+      {
+        "name": "Espresso Affogato",
+        "link": "https://www.allrecipes.com/recipe/228372/affogato-with-cold-brewed-coffee/",
+        "images": [
+          "https://www.insidetherustickitchen.com/wp-content/uploads/2018/07/Affogat-step-4-740x1110-inside-the-rustic-kitchen.jpg"
+        ]
+      },
+      {
+        "name": "Crème Brûlée",
+        "link": "https://www.taste.com.au/recipes/creme-brulee/f15f3e32-59e5-4ef1-88c2-bc81d6cd9ab5",
+        "images": [
+          "https://img.taste.com.au/rqVjRTEX/w643-h428-cfill-q90/taste/2016/11/creme-brulee-83422-1.jpeg"
+        ]
+      },
+      {
+        "name": "Crepe",
+        "link": "https://www.allrecipes.com/recipe/16383/basic-crepes/",
+        "images": [
+          "https://mathbabe.files.wordpress.com/2014/08/nutellacrepe.jpg",
+          "https://i.ytimg.com/vi/KgSsgqVtn1M/maxresdefault.jpg"
+        ]
+      }
+    ]
+  }
+]
