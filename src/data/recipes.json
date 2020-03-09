@@ -109,6 +109,20 @@
         "images": [
           "https://cookedtoorder.files.wordpress.com/2011/08/vietnamese-coffee.jpeg?w=193&h=300"
         ]
+      },
+      {
+        "name": "Agua Fresca",
+        "link": "https://www.allrecipes.com/recipe/233795/chef-johns-watermelon-agua-fresca/",
+        "images": [
+          "https://images.media-allrecipes.com/userphotos/720x405/3732183.jpg"
+        ]
+      },
+      {
+        "name": "Sangria",
+        "link": "https://minimalistbaker.com/easy-traditional-red-sangria/",
+        "images": [
+          "https://minimalistbaker.com/wp-content/uploads/2015/07/SIMPLE-Traditional-Red-Sangria-6-ingredients-SO-refreshing-and-delicious-vegan-recipe-wine-sangria-summer.jpg"
+        ]
       }
     ]
   },

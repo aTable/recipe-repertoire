@@ -11,8 +11,9 @@ const Carousel = (props: ICarouselProps) => {
     <div id={domId} className="carousel slide" data-ride="carousel">
       {props.images.length > 1 && (
         <ol className="carousel-indicators">
-          {props.images.map((_, i) => (
+          {props.images.map((link, i) => (
             <li
+              key={link}
               data-target={carouselTarget}
               data-slide-to={i}
               className={`${i === 0 ? "active" : ""}`}

@@ -33,11 +33,19 @@ const Home = (props: IHomeProps) => {
                 <h2>{x.type}</h2>
                 <div className="row">
                   {x.recipes.map(recipe => (
-                    <div key={recipe.name} className="col">
-                      <p onClick={setCourseChoice.bind(null, x.type, recipe)}>
-                        {recipe.name}
-                      </p>
-                      <Carousel images={recipe.images} />
+                    <div
+                      key={recipe.name}
+                      className="col"
+                      onClick={setCourseChoice.bind(null, x.type, recipe)}
+                      style={{ cursor: "pointer" }}
+                    >
+                      <div className="card" style={{}}>
+                        <Carousel images={recipe.images} />
+                        <div className="card-body">
+                          <h5 className="card-title">{recipe.name}</h5>
+                          {/* <p className="card-text"></p> */}
+                        </div>
+                      </div>
                     </div>
                   ))}
                 </div>
