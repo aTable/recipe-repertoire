@@ -1,3 +1,3 @@
 # Recipe Repertoire
 
-A list of your favourite recipes to plan the ideal night in
+Your [personalised menu](https://atable.github.io/recipe-repertoire) to plan the ideal night in 
