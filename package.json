@@ -2,7 +2,7 @@
   "name": "recipe-repertoire",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://atable.github.io/recipe-repertoire",
+  "homepage": "https://atable.github.io/menu",
   "scripts": {
     "s": "npm run start",
     "start": "npm-run-all -p start-js",
