@@ -19,7 +19,7 @@
       {
         "name": "Chicken Gyros",
         "link": "https://tasty.co/recipe/chicken-gyros",
-        "images": ["./menu/images/chicken-gyros-tasty.png"]
+        "images": ["images/chicken-gyros-tasty.png"]
       },
       {
         "name": "Oven BBQ ribs",
@@ -46,7 +46,7 @@
       {
         "name": "Chickpea curry",
         "link": "https://tasty.co/recipe/easy-chickpea-curry-channa-masala",
-        "images": ["./menu/images/chickpea-curry-tasty.png"]
+        "images": ["images/chickpea-curry-tasty.png"]
       },
       {
         "name": "Beef Stroganoff",
@@ -58,7 +58,7 @@
       {
         "name": "Dahl curry",
         "link": "https://www.nyonyacooking.com/recipes/dhal-curry~HyD7OwiPG9-7",
-        "images": ["./menu/images/dahl-curry-nyonyacooking.png"]
+        "images": ["images/dahl-curry-nyonyacooking.png"]
       },
       {
         "name": "Tandoori Shawarma",
@@ -84,7 +84,7 @@
       {
         "name": "Tikka Masala",
         "link": "https://tasty.co/recipe/homemade-chicken-tikka-masala",
-        "images": ["./menu/images/tikka-masala-tasty.png"]
+        "images": ["images/tikka-masala-tasty.png"]
       },
       {
         "name": "Bulgogi",
@@ -183,7 +183,7 @@
       {
         "name": "Potato gnocchi",
         "link": "https://tasty.co/recipe/easy-homemade-potato-gnocchi",
-        "images": ["./menu/images/gnocchi-from-scratch-tasty.png"]
+        "images": ["images/gnocchi-from-scratch-tasty.png"]
       },
       {
         "name": "Ramen noodles",
@@ -209,7 +209,7 @@
       {
         "name": "Creme Fraiche",
         "link": "https://www.allrecipes.com/recipe/222387/chef-johns-creme-fraiche/",
-        "images": ["./menu/images/creme-fraiche-chef-john.png"]
+        "images": ["images/creme-fraiche-chef-john.png"]
       },
       {
         "name": "Butter",
