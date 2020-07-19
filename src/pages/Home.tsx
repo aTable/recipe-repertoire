@@ -27,26 +27,40 @@ const Home = (props: IHomeProps) => {
     <div className="container-fluid">
       <div className="row">
         <div className="col-8">
-          {courses.map(x => (
+          {courses.map((x) => (
             <div key={x.type} className="row">
               <div className="col-12">
                 <h2>{x.type}</h2>
                 <div className="row">
-                  {x.recipes.map(recipe => (
-                    <div
-                      key={recipe.name}
-                      className="col"
-                      onClick={setCourseChoice.bind(null, x.type, recipe)}
-                      style={{ cursor: "pointer" }}
-                    >
-                      <div className="card" style={{}}>
-                        <Carousel images={recipe.images} />
-                        <div className="card-body">
-                          <h5 className="card-title">{recipe.name}</h5>
-                          {/* <p className="card-text"></p> */}
+                  {x.recipes.map((recipe, i) => (
+                    <React.Fragment key={recipe.name}>
+                      <div
+                        className="col"
+                        onClick={setCourseChoice.bind(null, x.type, recipe)}
+                        style={{ cursor: "pointer" }}
+                      >
+                        <div className="card" style={{}}>
+                          <Carousel images={recipe.images} />
+                          <div className="card-body">
+                            <h5 className="card-title">
+                              {recipe.name}{" "}
+                              <a
+                                href={recipe.link}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                              >
+                                <i
+                                  className="fa fa-link"
+                                  aria-hidden="true"
+                                ></i>
+                              </a>
+                            </h5>
+                            {/* <p className="card-text"></p> */}
+                          </div>
                         </div>
                       </div>
-                    </div>
+                      {i > 0 && i % 3 === 0 && <div className="w-100"></div>}
+                    </React.Fragment>
                   ))}
                 </div>
               </div>

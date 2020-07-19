@@ -10,10 +10,61 @@
         ]
       },
       {
+        "name": "Shakshuka",
+        "link": "https://cooking.nytimes.com/recipes/1014721-shakshuka-with-feta",
+        "images": [
+          "https://static01.nyt.com/images/2020/02/10/dining/mc-shakshuka/mc-shakshuka-articleLarge.jpg"
+        ]
+      },
+      {
+        "name": "Chicken Gyros",
+        "link": "https://tasty.co/recipe/chicken-gyros",
+        "images": ["./menu/images/chicken-gyros-tasty.png"]
+      },
+      {
+        "name": "Oven BBQ ribs",
+        "link": "https://www.recipetineats.com/oven-baked-barbecue-pork-ribs/",
+        "images": [
+          "https://www.recipetineats.com/wp-content/uploads/2016/01/Oven-Pork-Ribs-with-Barbecue-Sauce_4.jpg?resize=650,910"
+        ]
+      },
+      {
         "name": "Boiled Chicken",
         "link": "https://www.allrecipes.com/recipe/20455/boiled-chicken/",
         "images": [
           "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1046916.jpg&w=582&h=774.0600000000001&c=sc&poi=face&q=85"
+        ]
+      },
+      {
+        "name": "Roast brined chicken",
+        "link": "https://www.allrecipes.com/recipe/170656/simple-chicken-brine/",
+        "images": [
+          "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4584729.jpg&w=960&h=643&c=sc&poi=face&q=85"
+        ]
+      },
+
+      {
+        "name": "Chickpea curry",
+        "link": "https://tasty.co/recipe/easy-chickpea-curry-channa-masala",
+        "images": ["./menu/images/chickpea-curry-tasty.png"]
+      },
+      {
+        "name": "Beef Stroganoff",
+        "link": "https://www.recipetineats.com/beef-stroganoff/",
+        "images": [
+          "https://www.recipetineats.com/wp-content/uploads/2018/01/Beef-Stroganoff_2-1-1.jpg?resize=650,910"
+        ]
+      },
+      {
+        "name": "Dahl curry",
+        "link": "https://www.nyonyacooking.com/recipes/dhal-curry~HyD7OwiPG9-7",
+        "images": ["./menu/images/dahl-curry-nyonyacooking.png"]
+      },
+      {
+        "name": "Tandoori Shawarma",
+        "link": "https://www.bbcgoodfood.com/recipes/bbq-tandoori-chicken-shawarma",
+        "images": [
+          "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/05/bbq-tandoori-chicken-shawarma.jpg?itok=6gqHFAg5"
         ]
       },
       {
@@ -29,6 +80,11 @@
         "images": [
           "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1001451_6.jpg?itok=UV2FygMI"
         ]
+      },
+      {
+        "name": "Tikka Masala",
+        "link": "https://tasty.co/recipe/homemade-chicken-tikka-masala",
+        "images": ["./menu/images/tikka-masala-tasty.png"]
       },
       {
         "name": "Bulgogi",
@@ -64,12 +120,26 @@
         "images": [
           "https://www.foxandbriar.com/wp-content/uploads/2016/02/Easy-Chicken-Ramen-6.jpg"
         ]
+      },
+      {
+        "name": "Sweet potato falfel burgers",
+        "link": "https://www.connoisseurusveg.com/sweet-potato-falafel-burgers/",
+        "images": [
+          "https://www.connoisseurusveg.com/wp-content/uploads/2015/03/sweet_potato_falafel_burger_portrait.jpg"
+        ]
       }
     ]
   },
   {
     "type": "Sides",
     "recipes": [
+      {
+        "name": "Naan",
+        "link": "https://www.bbcgoodfood.com/recipes/naan-bread",
+        "images": [
+          "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2017/05/naan-bread.jpg?itok=zAAlDFNz"
+        ]
+      },
       {
         "name": "Couscous",
         "link": "https://www.thespruceeats.com/simple-couscous-recipe-2355404",
@@ -81,7 +151,7 @@
         "name": "Gyoza",
         "link": "https://www.justonecookbook.com/gyoza/",
         "images": [
-          "https://d3eh3svpl1busq.cloudfront.net/KQYMGOLIdXGmoAcyJsPOrQDKktgCbwtG/assets/static/optimized/rev-88b71de/wp-content/uploads/2020/01/Gyoza-3107-III.jpg"
+          "https://v1.nitrocdn.com/KQYMGOLIdXGmoAcyJsPOrQDKktgCbwtG/assets/static/optimized/rev-e80bad3/wp-content/uploads/2020/04/Gyoza-3096-II.jpg"
         ]
       },
       {
@@ -92,10 +162,67 @@
         ]
       },
       {
+        "name": "Roasted salsa",
+        "link": "https://www.allrecipes.com/recipe/24626/roasted-tomato-salsa-i/",
+        "images": [
+          "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F29550.jpg&w=960&h=643&c=sc&poi=face&q=85"
+        ]
+      },
+      {
+        "name": "Pico de Gallo",
+        "link": "https://cookieandkate.com/classic-pico-de-gallo-recipe/",
+        "images": [
+          "https://cookieandkate.com/images/2018/09/best-pico-de-gallo-recipe-2-550x824.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "Adventures",
+    "recipes": [
+      {
+        "name": "Potato gnocchi",
+        "link": "https://tasty.co/recipe/easy-homemade-potato-gnocchi",
+        "images": ["./menu/images/gnocchi-from-scratch-tasty.png"]
+      },
+      {
         "name": "Ramen noodles",
         "link": "https://pinchandswirl.com/homemade-ramen-noodles/",
         "images": [
           "https://pinchandswirl.com/wp-content/uploads/2017/03/Homemade-Ramen-Noodles.jpg"
+        ]
+      },
+      {
+        "name": "Beef Jerky",
+        "link": "https://www.allrecipes.com/recipe/142948/docs-best-beef-jerky/",
+        "images": [
+          "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3803463.jpg&w=960&h=960&c=sc&poi=face&q=85"
+        ]
+      },
+      {
+        "name": "Pickled vegetables",
+        "link": "https://www.thekitchn.com/how-to-quick-pickle-any-vegetable-233882",
+        "images": [
+          "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_696,h_465/test%2F68699755fe46debcb39e3d2d0171c75769792643"
+        ]
+      },
+      {
+        "name": "Creme Fraiche",
+        "link": "https://www.allrecipes.com/recipe/222387/chef-johns-creme-fraiche/",
+        "images": ["./menu/images/creme-fraiche-chef-john.png"]
+      },
+      {
+        "name": "Butter",
+        "link": "https://www.biggerbolderbaking.com/homemade-butter/",
+        "images": [
+          "https://www.biggerbolderbaking.com/wp-content/uploads/2016/09/IMG_7399-1024x682.jpg"
+        ]
+      },
+      {
+        "name": "Mozzarella",
+        "link": "https://www.ruralsprout.com/homemade-mozzarella/",
+        "images": [
+          "https://cdn.shortpixel.ai/spai/w_690+q_lossy+ret_img+to_webp/https://www.ruralsprout.com/wp-content/uploads/2020/01/balsamic_mozzarella.jpg"
         ]
       }
     ]
@@ -108,6 +235,13 @@
         "link": "https://whiteonricecouple.com/recipes/vietnamese-iced-coffee-recipe/",
         "images": [
           "https://cookedtoorder.files.wordpress.com/2011/08/vietnamese-coffee.jpeg?w=193&h=300"
+        ]
+      },
+      {
+        "name": "Coffee Soda",
+        "link": "https://boulderlocavore.com/caramel-coffee-cake-coffee-soda-and-diy-coffee-soda-tutorial/",
+        "images": [
+          "https://boulderlocavore.com/wp-content/uploads/2016/10/Dunkin-Donuts-Caramel-Coffee-Cake-Coffee-Soda-and-DIY-How-to-Make-Coffee-Sodaclub-soda-pour-BoulderLocavore.com-2732.jpg"
         ]
       },
       {
@@ -158,6 +292,16 @@
         "images": [
           "https://mathbabe.files.wordpress.com/2014/08/nutellacrepe.jpg",
           "https://i.ytimg.com/vi/KgSsgqVtn1M/maxresdefault.jpg"
+        ]
+      },
+      {
+        "name": "Coffee Jelly",
+        "link": "https://www.allrecipes.com/recipe/214724/coffee-jelly/",
+        "images": [
+          "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4582270.jpg&w=596&h=596&c=sc&poi=face&q=85",
+          "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F609434.jpg&w=596&h=596&c=sc&poi=face&q=85",
+          "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7087928.jpg&w=596&h=792&c=sc&poi=face&q=85",
+          "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4406696.jpg&w=596&h=596&c=sc&poi=face&q=85"
         ]
       }
     ]

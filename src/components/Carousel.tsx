@@ -27,11 +27,7 @@ const Carousel = (props: ICarouselProps) => {
             key={image}
             className={`carousel-item ${i === 0 ? "active" : ""}`}
           >
-            <img
-              className="d-block w-100 image-fluid"
-              src={image}
-              alt={image}
-            />
+            <img className="d-block w-100 image-fluid" src={image} alt="Food" />
           </div>
         ))}
         {props.images.length > 1 && (
